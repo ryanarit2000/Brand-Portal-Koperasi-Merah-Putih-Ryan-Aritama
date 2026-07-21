@@ -1,0 +1,6 @@
+{
+  "name": "Brand Portal Koperasi Merah Putih",
+  "description": "Portal branding lengkap, profil perusahaan, katalog produk, galeri mockup dan foto premium, artikel bisnis, serta panduan identitas logo untuk Koperasi Desa Merah Putih (KDKMP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
